@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">INFS2603 TUTORIAL</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">INFS2603</string>
+    <string name="nav_header_subtitle">Business Analysis</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="usecasetitle">Usecases</string>
+    <string name="usecasedescription">In software and systems engineering, a use case is a list of actions or event steps typically defining the interactions between a role (known in the Unified Modeling Language as an actor) and a system to achieve a goal</string>
+    <string name="designthinkingtitle">Design Thinking</string>
+    <string name="designthinkingdesc">Design Thinking is an iterative process in which we seek to understand the user, challenge assumptions, and redefine problems in an attempt to identify alternative strategies and solutions that might not be instantly apparent with our initial level of understanding. At the same time, Design Thinking provides a solution-based approach to solving problems. It is a way of thinking and working as well as a collection of hands-on methods.</string>
+    <string name="agilescrumtitle">Agile Scrum</string>
+    <string name="agilescrumdesc">Scrum relies on a self-organizing, cross-functional team. The scrum team is self-organizing in that there is no overall team leader who decides which person will do which task or how a problem will be solved. Those are issues that are decided by the team as a whole. And in Scrum, a team is cross functional, meaning everyone is needed to take a feature from idea to implementation.</string>
+    <string name="Button">Button</string>
+    <string name="text">text</string>
+    <string name="score">Your score</string>
+
+</resources>

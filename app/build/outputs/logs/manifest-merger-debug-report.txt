@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:design:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2b6c3cfcb0a6ffd33b3a216c0791e4cf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/de45d65fb5cf1990158b7c6966a0bc43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c74aabb78f59f72b0194201f949dd71a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a499054001e1025e713f09191ffc0ac6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5d8d7fa9ce6ca2e88aa923f4ef5b2dc6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9bc20aa7ad97f7e0a8c7029caa52f0a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6c5d48ad195074626d85b0a63c464128/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/dd764e2c624abf9547811d0c6902a1be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8073b6df2dfa1da735a4b4b483796af2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9ced83878909f18b643bf50874e2be4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/569b4c24cf06ac7ac66a37abeb917614/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/46aac73fb414e2bc3503f3fc76c18375/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9b330e8eed1ba65d8557fac200523181/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/701e7b6a98d04b3a47943742068f3812/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7023ea2d2985780361c4df8332948bc6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/606faba53353b440c6041f388e2dc4e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d9c11346ddb851ac738d8a42d0dc23e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/95db8a8d6b9c0ce669179914cccca548/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/36a6eb82bc5ee931202889c7cf226f36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/f529a3c02de05cd89127fbd011c60681/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b74105b884439a5441455b6dd2040d3f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4029e149fa1507557b1fdbfbfe8b4733/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4286da2d1715a3fc174b31b260f4b379/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c9203e9be4e2bcbddaab96c30ea7d1ce/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2b41bd6521166a8300c6ed58d5276409/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d954d3c0b0ef78520b8ec9e08fc7de0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/075c404c79255b69e365de8a8709bda8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d7a24bb5d27b8a65d67e2e953cbad7a9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/42751723e14b5265d93dc1e42e03e8b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/444b6b21fd488153de2b5207907047f9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8c9d114556897dc1d45477c5070b4f0d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b9ad23726884a2c706edb8bd7e8bf090/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e03e34960fa8ae23f4ba619c97e7e591/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:2:1-57:12
+		INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:2:1-57:12
+		INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:10:5-55:19
+MERGED from [com.android.support:design:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2b6c3cfcb0a6ffd33b3a216c0791e4cf/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2b6c3cfcb0a6ffd33b3a216c0791e4cf/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a499054001e1025e713f09191ffc0ac6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a499054001e1025e713f09191ffc0ac6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b74105b884439a5441455b6dd2040d3f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b74105b884439a5441455b6dd2040d3f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4029e149fa1507557b1fdbfbfe8b4733/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4029e149fa1507557b1fdbfbfe8b4733/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b74105b884439a5441455b6dd2040d3f/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.raymond.myapplication.MainActivity
+ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:20:13-56
+	android:name
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.raymond.myapplication.CourseList
+ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:27:9-33:16
+	android:name
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:27:19-45
+activity#com.example.raymond.myapplication.agilescrum
+ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:35:9-41:20
+	android:name
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:35:19-45
+meta-data#preloaded_fonts
+ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:44:5-46:57
+	android:resource
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:46:13-54
+	android:name
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:45:13-43
+activity#com.example.raymond.myapplication.usecases
+ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:48:9-49:20
+	android:name
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:48:19-43
+activity#com.example.raymond.myapplication.designthinking
+ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:50:9-52
+	android:name
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:50:19-49
+activity#com.example.raymond.myapplication.QuizActivity
+ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:51:9-50
+	android:name
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:51:19-47
+activity#com.example.raymond.myapplication.ResultActivity
+ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:52:9-54:20
+	android:name
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml:52:19-49
+uses-sdk
+INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2b6c3cfcb0a6ffd33b3a216c0791e4cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/2b6c3cfcb0a6ffd33b3a216c0791e4cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/de45d65fb5cf1990158b7c6966a0bc43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/de45d65fb5cf1990158b7c6966a0bc43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c74aabb78f59f72b0194201f949dd71a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c74aabb78f59f72b0194201f949dd71a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a499054001e1025e713f09191ffc0ac6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a499054001e1025e713f09191ffc0ac6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5d8d7fa9ce6ca2e88aa923f4ef5b2dc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5d8d7fa9ce6ca2e88aa923f4ef5b2dc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9bc20aa7ad97f7e0a8c7029caa52f0a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9bc20aa7ad97f7e0a8c7029caa52f0a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6c5d48ad195074626d85b0a63c464128/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6c5d48ad195074626d85b0a63c464128/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/dd764e2c624abf9547811d0c6902a1be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/dd764e2c624abf9547811d0c6902a1be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8073b6df2dfa1da735a4b4b483796af2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8073b6df2dfa1da735a4b4b483796af2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9ced83878909f18b643bf50874e2be4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9ced83878909f18b643bf50874e2be4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/569b4c24cf06ac7ac66a37abeb917614/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/569b4c24cf06ac7ac66a37abeb917614/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/46aac73fb414e2bc3503f3fc76c18375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/46aac73fb414e2bc3503f3fc76c18375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9b330e8eed1ba65d8557fac200523181/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9b330e8eed1ba65d8557fac200523181/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/701e7b6a98d04b3a47943742068f3812/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/701e7b6a98d04b3a47943742068f3812/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7023ea2d2985780361c4df8332948bc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7023ea2d2985780361c4df8332948bc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/606faba53353b440c6041f388e2dc4e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/606faba53353b440c6041f388e2dc4e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d9c11346ddb851ac738d8a42d0dc23e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d9c11346ddb851ac738d8a42d0dc23e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/95db8a8d6b9c0ce669179914cccca548/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/95db8a8d6b9c0ce669179914cccca548/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/36a6eb82bc5ee931202889c7cf226f36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/36a6eb82bc5ee931202889c7cf226f36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/f529a3c02de05cd89127fbd011c60681/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/f529a3c02de05cd89127fbd011c60681/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b74105b884439a5441455b6dd2040d3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b74105b884439a5441455b6dd2040d3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4029e149fa1507557b1fdbfbfe8b4733/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4029e149fa1507557b1fdbfbfe8b4733/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4286da2d1715a3fc174b31b260f4b379/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4286da2d1715a3fc174b31b260f4b379/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c9203e9be4e2bcbddaab96c30ea7d1ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c9203e9be4e2bcbddaab96c30ea7d1ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2b41bd6521166a8300c6ed58d5276409/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2b41bd6521166a8300c6ed58d5276409/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d954d3c0b0ef78520b8ec9e08fc7de0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d954d3c0b0ef78520b8ec9e08fc7de0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/075c404c79255b69e365de8a8709bda8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/075c404c79255b69e365de8a8709bda8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d7a24bb5d27b8a65d67e2e953cbad7a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/d7a24bb5d27b8a65d67e2e953cbad7a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/42751723e14b5265d93dc1e42e03e8b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/42751723e14b5265d93dc1e42e03e8b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/444b6b21fd488153de2b5207907047f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/444b6b21fd488153de2b5207907047f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8c9d114556897dc1d45477c5070b4f0d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8c9d114556897dc1d45477c5070b4f0d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b9ad23726884a2c706edb8bd7e8bf090/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b9ad23726884a2c706edb8bd7e8bf090/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e03e34960fa8ae23f4ba619c97e7e591/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/cathyliang/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e03e34960fa8ae23f4ba619c97e7e591/AndroidManifest.xml:20:5-44
+INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cathyliang/Downloads/MyApplication 3/app/src/main/AndroidManifest.xml
